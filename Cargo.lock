@@ -595,6 +595,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "example-forms-utils"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "cli-support",
+ "structopt",
+]
+
+[[package]]
 name = "example-places-autocomplete"
 version = "0.1.0"
 dependencies = [
